@@ -31,3 +31,5 @@
 
 ### 結果
 ![blush](samples/histgram.png "Title")
+
+Score: 差異の大きさ
