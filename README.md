@@ -18,3 +18,16 @@
 ![blush](samples/sample2-1.png "Title")
 - 異常
 ![blush](samples/sample2-2.png "Title")
+
+# 検証例
+- 正常：６の手書き画像（学習データ:5918枚/検証データ:958枚）
+- 異常：９の手書き画像（検証データ:958枚）
+
+### サンプル３
+- 正常
+![blush](samples/sample3-1.png "Title")
+- 異常
+![blush](samples/sample3-2.png "Title")
+
+### 学習曲線
+![blush](samples/histgram.png "Title")
