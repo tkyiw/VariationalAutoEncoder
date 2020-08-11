@@ -29,5 +29,5 @@
 - 異常
 ![blush](samples/sample3-2.png "Title")
 
-### 学習曲線
+### 結果
 ![blush](samples/histgram.png "Title")
